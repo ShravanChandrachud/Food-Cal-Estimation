@@ -1,0 +1,232 @@
+{
+    "egg": {
+        "num_subclasses": 1,
+        "subclasses": [
+            {
+                "name": "egg",
+                "train_path": "datasets\\train\\egg\\egg",
+                "val_path": "datasets\\val\\egg\\egg",
+                "test_path": "datasets\\test\\egg\\egg",
+                "num_train": 113,
+                "num_val": 24,
+                "num_test": 25,
+                "num_total": 162
+            }
+        ]
+    },
+    "fruits": {
+        "num_subclasses": 5,
+        "subclasses": [
+            {
+                "name": "apple",
+                "train_path": "datasets\\train\\fruits\\apple",
+                "val_path": "datasets\\val\\fruits\\apple",
+                "test_path": "datasets\\test\\fruits\\apple",
+                "num_train": 2630,
+                "num_val": 563,
+                "num_test": 565,
+                "num_total": 3758
+            },
+            {
+                "name": "banana",
+                "train_path": "datasets\\train\\fruits\\banana",
+                "val_path": "datasets\\val\\fruits\\banana",
+                "test_path": "datasets\\test\\fruits\\banana",
+                "num_train": 683,
+                "num_val": 146,
+                "num_test": 148,
+                "num_total": 977
+            },
+            {
+                "name": "lemon",
+                "train_path": "datasets\\train\\fruits\\lemon",
+                "val_path": "datasets\\val\\fruits\\lemon",
+                "test_path": "datasets\\test\\fruits\\lemon",
+                "num_train": 344,
+                "num_val": 73,
+                "num_test": 75,
+                "num_total": 492
+            },
+            {
+                "name": "orange",
+                "train_path": "datasets\\train\\fruits\\orange",
+                "val_path": "datasets\\val\\fruits\\orange",
+                "test_path": "datasets\\test\\fruits\\orange",
+                "num_train": 1327,
+                "num_val": 284,
+                "num_test": 286,
+                "num_total": 1897
+            },
+            {
+                "name": "strawberry",
+                "train_path": "datasets\\train\\fruits\\strawberry",
+                "val_path": "datasets\\val\\fruits\\strawberry",
+                "test_path": "datasets\\test\\fruits\\strawberry",
+                "num_train": 1010,
+                "num_val": 216,
+                "num_test": 217,
+                "num_total": 1443
+            }
+        ]
+    },
+    "oil": {
+        "num_subclasses": 1,
+        "subclasses": [
+            {
+                "name": "oil",
+                "train_path": "datasets\\train\\oil\\oil",
+                "val_path": "datasets\\val\\oil\\oil",
+                "test_path": "datasets\\test\\oil\\oil",
+                "num_train": 685,
+                "num_val": 146,
+                "num_test": 148,
+                "num_total": 979
+            }
+        ]
+    },
+    "rice": {
+        "num_subclasses": 5,
+        "subclasses": [
+            {
+                "name": "arborio",
+                "train_path": "datasets\\train\\rice\\arborio",
+                "val_path": "datasets\\val\\rice\\arborio",
+                "test_path": "datasets\\test\\rice\\arborio",
+                "num_train": 350,
+                "num_val": 75,
+                "num_test": 75,
+                "num_total": 500
+            },
+            {
+                "name": "basmati",
+                "train_path": "datasets\\train\\rice\\basmati",
+                "val_path": "datasets\\val\\rice\\basmati",
+                "test_path": "datasets\\test\\rice\\basmati",
+                "num_train": 350,
+                "num_val": 75,
+                "num_test": 75,
+                "num_total": 500
+            },
+            {
+                "name": "ipsala",
+                "train_path": "datasets\\train\\rice\\ipsala",
+                "val_path": "datasets\\val\\rice\\ipsala",
+                "test_path": "datasets\\test\\rice\\ipsala",
+                "num_train": 350,
+                "num_val": 75,
+                "num_test": 75,
+                "num_total": 500
+            },
+            {
+                "name": "jasmine",
+                "train_path": "datasets\\train\\rice\\jasmine",
+                "val_path": "datasets\\val\\rice\\jasmine",
+                "test_path": "datasets\\test\\rice\\jasmine",
+                "num_train": 350,
+                "num_val": 75,
+                "num_test": 75,
+                "num_total": 500
+            },
+            {
+                "name": "karacadag",
+                "train_path": "datasets\\train\\rice\\karacadag",
+                "val_path": "datasets\\val\\rice\\karacadag",
+                "test_path": "datasets\\test\\rice\\karacadag",
+                "num_train": 350,
+                "num_val": 75,
+                "num_test": 75,
+                "num_total": 500
+            }
+        ]
+    },
+    "seafood": {
+        "num_subclasses": 3,
+        "subclasses": [
+            {
+                "name": "crab",
+                "train_path": "datasets\\train\\seafood\\crab",
+                "val_path": "datasets\\val\\seafood\\crab",
+                "test_path": "datasets\\test\\seafood\\crab",
+                "num_train": 367,
+                "num_val": 78,
+                "num_test": 80,
+                "num_total": 525
+            },
+            {
+                "name": "salmon",
+                "train_path": "datasets\\train\\seafood\\salmon",
+                "val_path": "datasets\\val\\seafood\\salmon",
+                "test_path": "datasets\\test\\seafood\\salmon",
+                "num_train": 229,
+                "num_val": 49,
+                "num_test": 50,
+                "num_total": 328
+            },
+            {
+                "name": "shrimp",
+                "train_path": "datasets\\train\\seafood\\shrimp",
+                "val_path": "datasets\\val\\seafood\\shrimp",
+                "test_path": "datasets\\test\\seafood\\shrimp",
+                "num_train": 296,
+                "num_val": 63,
+                "num_test": 64,
+                "num_total": 423
+            }
+        ]
+    },
+    "vegetables": {
+        "num_subclasses": 5,
+        "subclasses": [
+            {
+                "name": "broccoli",
+                "train_path": "datasets\\train\\vegetables\\broccoli",
+                "val_path": "datasets\\val\\vegetables\\broccoli",
+                "test_path": "datasets\\test\\vegetables\\broccoli",
+                "num_train": 215,
+                "num_val": 46,
+                "num_test": 47,
+                "num_total": 308
+            },
+            {
+                "name": "carrot",
+                "train_path": "datasets\\train\\vegetables\\carrot",
+                "val_path": "datasets\\val\\vegetables\\carrot",
+                "test_path": "datasets\\test\\vegetables\\carrot",
+                "num_train": 560,
+                "num_val": 120,
+                "num_test": 121,
+                "num_total": 801
+            },
+            {
+                "name": "onion",
+                "train_path": "datasets\\train\\vegetables\\onion",
+                "val_path": "datasets\\val\\vegetables\\onion",
+                "test_path": "datasets\\test\\vegetables\\onion",
+                "num_train": 795,
+                "num_val": 170,
+                "num_test": 172,
+                "num_total": 1137
+            },
+            {
+                "name": "potato",
+                "train_path": "datasets\\train\\vegetables\\potato",
+                "val_path": "datasets\\val\\vegetables\\potato",
+                "test_path": "datasets\\test\\vegetables\\potato",
+                "num_train": 409,
+                "num_val": 87,
+                "num_test": 89,
+                "num_total": 585
+            },
+            {
+                "name": "tomato",
+                "train_path": "datasets\\train\\vegetables\\tomato",
+                "val_path": "datasets\\val\\vegetables\\tomato",
+                "test_path": "datasets\\test\\vegetables\\tomato",
+                "num_train": 472,
+                "num_val": 101,
+                "num_test": 102,
+                "num_total": 675
+            }
+        ]
+    }
+}
