@@ -36,7 +36,7 @@ print(f"Found {len(videos)} video(s):")
 for v in videos:
     print(f"  {v.name} ({v.stat().st_size / 1024 / 1024:.1f} MB)")
 
-VIDEO = videos[1]
+VIDEO = videos[2]
 VID_NAME = VIDEO.stem
 OUT = OUTPUTS_DIR / f"v2_demo_{VID_NAME}"
 OUT.mkdir(parents=True, exist_ok=True)
